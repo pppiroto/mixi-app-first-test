@@ -1,0 +1,1 @@
+Test application for japanese sns mixi application
